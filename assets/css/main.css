@@ -4386,7 +4386,7 @@ input, select, textarea {
 		}
 
 	#copyright {
-		color: #ffffff;
+		color: #000000 !important;
 		position: relative;
 		color: rgba(255, 255, 255, 0.25);
 		cursor: default;
@@ -4450,7 +4450,7 @@ input, select, textarea {
 		}
 
 			#copyright ul li {
-				border-left: solid 2px;
+				border-left: solid 2px ;
 				display: inline-block;
 				line-height: 1;
 				margin-left: 1rem;
